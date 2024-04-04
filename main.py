@@ -8,3 +8,7 @@ print ("ta feliz fazendo o trabalho?")
 print('vou me matar')
 
 print("iremos.")
+
+print("o lasalle irá sofrer uma revolução")
+print("aguardem apenas mais 30 dias")
+print("segredos serão revelados")
