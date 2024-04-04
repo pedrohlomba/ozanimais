@@ -12,3 +12,6 @@ print("iremos.")
 print("o lasalle irá sofrer uma revolução")
 print("aguardem apenas mais 30 dias")
 print("segredos serão revelados")
+
+print('I am Paul Muaddib Atreides, Duke of Arrakis.'
+      'The Hand of God will be my witness, I am the Voice from the Outer World, I will lead you to Paradise')
