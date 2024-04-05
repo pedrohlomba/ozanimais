@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from flask import Flask, redirect, render_template, request, flash
 
 
@@ -33,3 +34,5 @@ def cadastrar():
 if __name__ == '__main__':
     app.run(debug = True)
 
+=======
+>>>>>>> upstream/main
